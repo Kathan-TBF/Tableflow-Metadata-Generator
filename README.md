@@ -1,1 +1,1 @@
-# Tableflow-Metadata-Generator
+# Project documentation and overview
