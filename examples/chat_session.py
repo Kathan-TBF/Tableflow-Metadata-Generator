@@ -1,1 +1,0 @@
-# Example of managing a chat session
