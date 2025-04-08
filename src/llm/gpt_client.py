@@ -1,1 +1,0 @@
-# GPT API client implementation
